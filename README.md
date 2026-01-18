@@ -3,7 +3,7 @@
  <hr>
 
 # 💫 About Me:
- 🎓 Passionate about MERN Full Stack Development. <br>🔭 Always exploring new tech and building projects.<br>
+ 🔹 Aspiring Full Stack Developer. <br>🔹 Passionate about building projects.<br>🔹Focused on learning modern development tools.
 
 
 ## 🌐 Socials:
